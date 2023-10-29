@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinicius Moraes da Silva</h1>
 <h3 align="center">A passionate coder from Brazil</h3>
 
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif" alt="coding" /></p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmoraessilva&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmoraessilva" /> </p>
 
 - 🔭 I’m currently working on **Itaú Unibanco**
