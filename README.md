@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Amazon AWS, Cobol...**
 
-- 📫 How to reach me **Vinicius.moraes.silva@gmail.com**
+- 📫 How to reach me **vinicius.moraes.silva@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/viniciusmoraessilva](www.linkedin.com/in/viniciusmoraessilva)
+- 📄 Know about my experiences [www.linkedin.com/in/ViniciusMoraesSilva](www.linkedin.com/in/viniciusmoraessilva?locale=en_US)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
