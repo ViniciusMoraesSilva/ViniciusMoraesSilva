@@ -5,7 +5,6 @@
 <p align="center"> <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*Ssn3fOvE9y68tUN8JrLcRA.gif" alt="coding" /> </p>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmoraessilva&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmoraessilva" /> </p>
 
 - 🔭 I’m currently working on **Itaú Unibanco**
@@ -20,10 +19,12 @@
 
 
 <h3 align="left">Certifications:</h3>
-<p align="left"> <a href="https://www.credly.com/badges/b1e6edd7-a3fe-4229-bf98-0a9bc0aa7ac0" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws" width="200" height="200"/> </a>
-<a href="https://www.credly.com/badges/e9db2cea-e9d1-482f-befc-2beb0fd1cbcd" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="aws" width="200" height="200"/> </a> </p>
-
-
+<p align="left"> <a href="https://www.credly.com/badges/b1e6edd7-a3fe-4229-bf98-0a9bc0aa7ac0" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws" width="150" height="150"/> </a>
+<a href="https://www.credly.com/badges/e9db2cea-e9d1-482f-befc-2beb0fd1cbcd" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="aws" width="150" height="150"/> </a>
+<a href="https://www.credly.com/earner/earned/badge/ca069ac6-fa20-46d1-8c41-c451294a8bee" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/899eae22-5f92-475f-bc75-01fa0a8ef748/Master_the_MF_-_Practical_Exp.png" alt="aws" width="150" height="150"/> </a>
+<a href="https://www.credly.com/earner/earned/badge/6312e5cd-e044-4a79-9691-292abdcfb494" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/d8911925-8d94-4486-8291-ae38e1383732/Master_the_MF_-_Real_World_Challenge.png" alt="aws" width="150" height="150"/> </a>
+<a href="https://www.credly.com/earner/earned/badge/dcc46320-77fc-4d34-be6f-f0ea1d3803d6" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="aws" width="150" height="150"/> </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
