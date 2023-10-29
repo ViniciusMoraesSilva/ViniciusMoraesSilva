@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmoraessilva&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmoraessilva" /> </p>
 
-- 🔭 I’m currently working on **Itau Unibanco**
+- 🔭 I’m currently working on **Itaú Unibanco**
 
 - 🌱 I’m currently learning **Swift**
 
