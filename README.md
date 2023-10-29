@@ -2,7 +2,7 @@
 <h3 align="center">A passionate coder from Brazil</h3>
 
 
-<p align="center"> <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif" alt="coding" /> </p>
+<p align="center"> <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*Ssn3fOvE9y68tUN8JrLcRA.gif" alt="coding" /> </p>
 
 
 
