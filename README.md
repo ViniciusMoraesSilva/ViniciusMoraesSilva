@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Moraes da Silva</h1>
-<h3 align="center">A passionate coder from Brazil</h3>
+<h3 align="center">A coder from Brazil</h3>
 
 
 <p align="center"> <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*Ssn3fOvE9y68tUN8JrLcRA.gif" alt="coding" /> </p>
