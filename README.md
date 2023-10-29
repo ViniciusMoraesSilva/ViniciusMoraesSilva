@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinicius Moraes da Silva</h1>
+<p align="center"> <img align="center" src="https://github.com/ViniciusMoraesSilva/ViniciusMoraesSilva/blob/main/result.gif?raw=true" alt="coding" /> </p>
+
 <h3 align="center">A passionate coder from Brazil</h3>
+
 
 <p align="center"> <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif" alt="coding" /> </p>
 
