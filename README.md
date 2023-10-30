@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vinicius Moraes da Silva</h1>
 <p align="left">
   <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*Ssn3fOvE9y68tUN8JrLcRA.gif" alt="coding" />
-</p> 🔭 I’m currently working on <strong>Itaú Unibanco</strong>  <br> 🇧🇷 Professional with over <strong>11 years of experience</strong> in the IT field with projects in the financial sector <br> 📝 I’m currently learning <strong>Swift</strong> and participating of some pools at <strong>42SP</strong><br> 💬 Ask me about <strong>Swift, Amazon AWS, Cobol...</strong> <br>
+</p> 👨🏽‍💻 I’m currently working on <strong>Itaú Unibanco</strong>  <br> 🇧🇷 Professional with over <strong>11 years of experience</strong> in the IT field with projects in the financial sector <br> 📝 I’m currently learning <strong>Swift</strong> and participating of some pools at <strong>42SP</strong><br> 💬 Ask me about <strong>Swift, Amazon AWS, Cobol...</strong> <br>
 <br>
 <div> 📫 How to reach me: <br>
   <p align="left">
