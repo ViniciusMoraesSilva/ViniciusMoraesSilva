@@ -7,15 +7,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmoraessilva&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmoraessilva" /> </p>
 
-- 🔭 I’m currently working on **Itaú Unibanco**
+🔭 I’m currently working on **Itaú Unibanco** <br>
+🇧🇷 Professional with over **11 years of experience** in the IT field with projects in the financial sector <br>
+📝 I’m currently learning **Swift**  <br>
+💬 Ask me about **Amazon AWS, Cobol...**  <br>
 
-- 🌱 I’m currently learning **Swift**
-
-- 💬 Ask me about **Amazon AWS, Cobol...**
-
-- 📫 How to reach me **vinicius.moraes.silva@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/ViniciusMoraesSilva](https://linkedin.com/in/viniciusmoraessilva?locale=en_US)
+<div>
+📫 How to reach me:<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/viniciusmoraessilva/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusmoraessilva" height="20" width="30" /></a>
+<a href="https://twitter.com/vinimoraessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinimoraessilva" height="20" width="30" /></a>
+<a href="https://instagram.com/vinimoraessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinimoraessilva" height="20" width="30" /></a>
+<a href="mailto:vinicius.moraes.silva@gmail.com" target="_blank"><img align="center" height="30" width="30" src="./icons/mail.svg" target="_blank"></a>
+</p>
+</div>
 
 
 <h3 align="left">Certifications:</h3>
@@ -31,9 +36,4 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinimoraessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinimoraessilva" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/viniciusmoraessilva/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusmoraessilva" height="30" width="40" /></a>
-<a href="https://instagram.com/vinimoraessilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinimoraessilva" height="30" width="40" /></a>
-</p>
+
