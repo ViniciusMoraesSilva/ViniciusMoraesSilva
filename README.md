@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Moraes da Silva</h1>
 <p align="center">
   <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*Ssn3fOvE9y68tUN8JrLcRA.gif" alt="coding" />
-</p> 🔭 I’m currently working on **Itaú Unibanco** <br> 🇧🇷 Professional with over **11 years of experience** in the IT field with projects in the financial sector <br> 📝 I’m currently learning **Swift** <br> 💬 Ask me about **Swift, Amazon AWS, Cobol...** <br>
+</p> 🔭 I’m currently working on <strong>Itaú Unibanco</strong>  <br> 🇧🇷 Professional with over <strong>11 years of experience</strong> in the IT field with projects in the financial sector <br> 📝 I’m currently learning <strong>Swift</strong> <br> 💬 Ask me about <strong>Swift, Amazon AWS, Cobol...</strong> <br>
 <br>
 <div> 📫 How to reach me: <br>
   <p align="left">
@@ -27,9 +27,6 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" height="35" width="35" src="./icons/cocoapods.svg" target="_blank">
-</div>
-<br>
-<div style="display: inline_block">
   <img align="center" height="41" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
   <img align="center" height="41" width="41" src="./icons/js.svg" target="_blank">
   <img align="center" height="41" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank">
