@@ -44,6 +44,9 @@
   <a href="https://www.credly.com/badges/e9db2cea-e9d1-482f-befc-2beb0fd1cbcd" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="aws" width="150" height="150" />
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://media.licdn.com/dms/image/D4E12AQGlYtZzwEiY3w/article-cover_image-shrink_720_1280/0/1690591592895?e=1704326400&v=beta&t=wGz0ju0GnyZBStza2KyEmtuKqmtLM7EgErHbBWq-N4E" alt="aws" width="150" height="150" />
+  </a>
   <a href="https://www.credly.com/earner/earned/badge/ca069ac6-fa20-46d1-8c41-c451294a8bee" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/899eae22-5f92-475f-bc75-01fa0a8ef748/Master_the_MF_-_Practical_Exp.png" alt="aws" width="150" height="150" />
   </a>
