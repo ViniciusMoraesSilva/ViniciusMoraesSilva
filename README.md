@@ -34,6 +34,7 @@
   <img align="center" height="41" width="41" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank">
   <img align="center" height="41" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank">
   <img align="center" height="41" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank">
+  <img align="center" height="41" width="41" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" target="_blank">
 </div>
 <h2 align="left">Certifications:</h2>
 <p align="left">
