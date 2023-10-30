@@ -23,6 +23,7 @@
 </div>
 
 
+
 <h3 align="left">Certifications:</h3>
 <p align="left"> <a href="https://www.credly.com/badges/b1e6edd7-a3fe-4229-bf98-0a9bc0aa7ac0" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws" width="150" height="150"/> </a>
 <a href="https://www.credly.com/badges/e9db2cea-e9d1-482f-befc-2beb0fd1cbcd" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="aws" width="150" height="150"/> </a>
